@@ -1,4 +1,3 @@
-// ContactListItem.js
 import React from 'react';
 
 function ContactListItem({ contact, deleteContact }) {

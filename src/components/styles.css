@@ -1,3 +1,8 @@
+h1,
+h2 {
+  margin-left: 20px;
+}
+
 .phonebook-div {
   margin: 20px 20px;
 }
@@ -5,7 +10,6 @@
 form {
   display: flex;
   flex-direction: column;
-  width: 300px;
 }
 
 label {
@@ -16,7 +20,7 @@ label {
 }
 
 button {
-  margin: 20px 40px;
+  margin: 20px 20px;
   width: 200px;
 }
 
@@ -25,5 +29,9 @@ button {
 }
 
 input {
-  margin: 20px 20px;
+  margin: 20px 0px;
+}
+
+.search-input {
+  margin-left: 20px;
 }
